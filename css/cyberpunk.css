@@ -10777,6 +10777,7 @@ body > .section {
 .image .avatar {
   height: 100%;
   object-fit: cover;
+  border-radius: 50%;
 }
 .image .fill {
   object-fit: cover;
@@ -11010,7 +11011,7 @@ a.article-nav-next span {
   }
 }
 .navbar-logo img {
-  max-height: 1.75rem;
+  max-height: 2.75rem;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -11028,7 +11029,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 1.75rem;
+  max-height: 2.75rem;
 }
 .pagination {
   margin-top: 1.5rem;
